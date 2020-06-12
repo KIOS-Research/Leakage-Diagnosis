@@ -12,4 +12,4 @@ This work also uses Gurobi Optmization, LLC (http://www.gurobi.com).
 For obtaining an academic licence please visit https://www.gurobi.com/academia/academic-program-and-licenses/.
 
 # Contributors
-Stelios Vrachimis, KIOS Research Center for Intelligent Systems and Networks, University of Cyprus
+Stelios Vrachimis, KIOS Research and Innovation Center of Excellence, University of Cyprus
