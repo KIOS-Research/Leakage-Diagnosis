@@ -8,7 +8,7 @@ This work uses the EPANET-Matlab-Toolkit which is a Matlab class for EPANET libr
 Please install the toolkit before use.
 For more information see https://github.com/OpenWaterAnalytics/EPANET-Matlab-Toolkit#EPANET-MATLAB-Toolkit .
 
-This work also uses Gurobi Optmization, LLC (http://www.gurobi.com).
+This work also uses Gurobi Optimization, LLC (http://www.gurobi.com).
 For obtaining an academic licence please visit https://www.gurobi.com/academia/academic-program-and-licenses/.
 
 # Contributors
