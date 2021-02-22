@@ -1,8 +1,8 @@
 %% Display Results
-%  Copyright (c) 2018 KIOS Research and Innovation Centre of Excellence
+%  Copyright (c) 2020 KIOS Research and Innovation Centre of Excellence
 %  (KIOS CoE), University of Cyprus (www.kios.org.cy)
 %  
-%  Licensed under the EUPL, Version 1.1 or – as soon they will be approved
+%  Licensed under the EUPL, Version 1.1 or â€“ as soon they will be approved
 %  by the European Commission - subsequent versions of the EUPL (the "Licence");
 %  You may not use this work except in compliance with theLicence.
 %  
@@ -26,7 +26,8 @@ try
 d.unload
 catch ERR
 end 
-fclose all;clear class;clear all;clc;close all;
+fclose all;clear class;
+clear all;clc;close all;
 addpath(genpath(pwd));
 simname = selectSimulation([]);
 load(simname)
