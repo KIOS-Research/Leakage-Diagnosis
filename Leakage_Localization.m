@@ -1,5 +1,5 @@
 %{
- Copyright (c) 2018 KIOS Research and Innovation Centre of Excellence
+ Copyright (c) 2020 KIOS Research and Innovation Centre of Excellence
  (KIOS CoE), University of Cyprus (www.kios.org.cy)
  
  Licensed under the EUPL, Version 1.1 or – as soon they will be approved
@@ -19,7 +19,7 @@
  email         : vrachimis.stelios@ucy.ac.cy (Stelios Vrachimis)
  Website       : http://www.kios.ucy.ac.cy
  
- Last revision : January 2021
+ Last revision : December 2020
 %}
 %%
 try 
